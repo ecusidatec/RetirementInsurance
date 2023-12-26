@@ -1,0 +1,628 @@
+,Linecode,Year,Linecode Description,Data,Disclosure
+0,10,2001,Total employment,99616588,0
+1,10,2002,Total employment,99205451,0
+2,10,2003,Total employment,99604756,0
+3,10,2004,Total employment,101385269,0
+4,10,2005,Total employment,103580299,0
+5,10,2006,Total employment,105863047,0
+6,10,2007,Total employment,108284469,0
+7,10,2008,Total employment,108241365,1
+8,10,2009,Total employment,105023224,1
+9,10,2010,Total employment,104637146,1
+10,10,2011,Total employment,106542667,1
+11,10,2012,Total employment,108224147,1
+12,10,2013,Total employment,110193722,1
+13,10,2014,Total employment,112572002,1
+14,10,2015,Total employment,115035331,1
+15,10,2016,Total employment,116774196,1
+16,10,2017,Total employment,118652184,1
+17,10,2018,Total employment,121040578,1
+18,10,2019,Total employment,123105573,1
+19,20,2001,Wage and salary employment,81768569,0
+20,20,2002,Wage and salary employment,81029591,0
+21,20,2003,Wage and salary employment,80760302,0
+22,20,2004,Wage and salary employment,81658215,0
+23,20,2005,Wage and salary employment,82858496,0
+24,20,2006,Wage and salary employment,84395741,0
+25,20,2007,Wage and salary employment,85507633,0
+26,20,2008,Wage and salary employment,85306351,1
+27,20,2009,Wage and salary employment,81640256,1
+28,20,2010,Wage and salary employment,81218476,1
+29,20,2011,Wage and salary employment,82164441,1
+30,20,2012,Wage and salary employment,83724074,1
+31,20,2013,Wage and salary employment,85049851,1
+32,20,2014,Wage and salary employment,86763837,1
+33,20,2015,Wage and salary employment,88467666,1
+34,20,2016,Wage and salary employment,89741686,1
+35,20,2017,Wage and salary employment,90891777,1
+36,20,2018,Wage and salary employment,92367760,1
+37,20,2019,Wage and salary employment,93588115,1
+38,40,2001,Proprietor's employment,17848019,0
+39,40,2002,Proprietor's employment,18175860,0
+40,40,2003,Proprietor's employment,18844454,0
+41,40,2004,Proprietor's employment,19727054,0
+42,40,2005,Proprietor's employment,20721803,0
+43,40,2006,Proprietor's employment,21467306,0
+44,40,2007,Proprietor's employment,22776836,0
+45,40,2008,Proprietor's employment,22935014,1
+46,40,2009,Proprietor's employment,23382968,1
+47,40,2010,Proprietor's employment,23418670,1
+48,40,2011,Proprietor's employment,24378226,1
+49,40,2012,Proprietor's employment,24500073,1
+50,40,2013,Proprietor's employment,25143871,1
+51,40,2014,Proprietor's employment,25808165,1
+52,40,2015,Proprietor's employment,26567665,1
+53,40,2016,Proprietor's employment,27032510,1
+54,40,2017,Proprietor's employment,27760407,1
+55,40,2018,Proprietor's employment,28672818,1
+56,40,2019,Proprietor's employment,29517458,1
+57,50,2001,Farm proprietors employment,1815304,0
+58,50,2002,Farm proprietors employment,1680439,0
+59,50,2003,Farm proprietors employment,1619626,0
+60,50,2004,Farm proprietors employment,1571231,0
+61,50,2005,Farm proprietors employment,1556291,0
+62,50,2006,Farm proprietors employment,1516685,0
+63,50,2007,Farm proprietors employment,1587736,0
+64,50,2008,Farm proprietors employment,1574198,1
+65,50,2009,Farm proprietors employment,1564055,1
+66,50,2010,Farm proprietors employment,1562495,1
+67,50,2011,Farm proprietors employment,1558209,1
+68,50,2012,Farm proprietors employment,1532494,1
+69,50,2013,Farm proprietors employment,1541669,1
+70,50,2014,Farm proprietors employment,1529004,1
+71,50,2015,Farm proprietors employment,1523853,1
+72,50,2016,Farm proprietors employment,1516489,1
+73,50,2017,Farm proprietors employment,1499277,1
+74,50,2018,Farm proprietors employment,1489982,1
+75,50,2019,Farm proprietors employment,1485349,1
+76,60,2001,Nonfarm proprietors employment,16032715,0
+77,60,2002,Nonfarm proprietors employment,16495421,0
+78,60,2003,Nonfarm proprietors employment,17224828,0
+79,60,2004,Nonfarm proprietors employment,18155823,0
+80,60,2005,Nonfarm proprietors employment,19165512,0
+81,60,2006,Nonfarm proprietors employment,19950621,0
+82,60,2007,Nonfarm proprietors employment,21189100,0
+83,60,2008,Nonfarm proprietors employment,21360816,1
+84,60,2009,Nonfarm proprietors employment,21818913,1
+85,60,2010,Nonfarm proprietors employment,21856175,1
+86,60,2011,Nonfarm proprietors employment,22820017,1
+87,60,2012,Nonfarm proprietors employment,22967579,1
+88,60,2013,Nonfarm proprietors employment,23602202,1
+89,60,2014,Nonfarm proprietors employment,24279161,1
+90,60,2015,Nonfarm proprietors employment,25043812,1
+91,60,2016,Nonfarm proprietors employment,25516021,1
+92,60,2017,Nonfarm proprietors employment,26261130,1
+93,60,2018,Nonfarm proprietors employment,27182836,1
+94,60,2019,Nonfarm proprietors employment,28032109,1
+95,70,2001,Farm employment,2370119,0
+96,70,2002,Farm employment,2214525,0
+97,70,2003,Farm employment,2159434,0
+98,70,2004,Farm employment,2085926,0
+99,70,2005,Farm employment,2054162,0
+100,70,2006,Farm employment,2002787,0
+101,70,2007,Farm employment,2069951,0
+102,70,2008,Farm employment,2050294,1
+103,70,2009,Farm employment,2042773,1
+104,70,2010,Farm employment,2042339,1
+105,70,2011,Farm employment,2051206,1
+106,70,2012,Farm employment,2028476,1
+107,70,2013,Farm employment,2046564,1
+108,70,2014,Farm employment,2035599,1
+109,70,2015,Farm employment,2039545,1
+110,70,2016,Farm employment,2032107,1
+111,70,2017,Farm employment,2020968,1
+112,70,2018,Farm employment,2002428,1
+113,70,2019,Farm employment,1998793,1
+114,80,2001,Nonfarm employment,97246469,0
+115,80,2002,Nonfarm employment,96990926,0
+116,80,2003,Nonfarm employment,97445322,0
+117,80,2004,Nonfarm employment,99299343,0
+118,80,2005,Nonfarm employment,101526137,0
+119,80,2006,Nonfarm employment,103860260,0
+120,80,2007,Nonfarm employment,106214518,0
+121,80,2008,Nonfarm employment,106191071,1
+122,80,2009,Nonfarm employment,102980451,1
+123,80,2010,Nonfarm employment,102594807,1
+124,80,2011,Nonfarm employment,104491461,1
+125,80,2012,Nonfarm employment,106195671,1
+126,80,2013,Nonfarm employment,108147158,1
+127,80,2014,Nonfarm employment,110536403,1
+128,80,2015,Nonfarm employment,112995786,1
+129,80,2016,Nonfarm employment,114742089,1
+130,80,2017,Nonfarm employment,116631216,1
+131,80,2018,Nonfarm employment,119038150,1
+132,80,2019,Nonfarm employment,121106780,1
+133,90,2001,Private employment,83293827,0
+134,90,2002,Private employment,82811485,0
+135,90,2003,Private employment,83190385,0
+136,90,2004,Private employment,84994966,0
+137,90,2005,Private employment,87144448,0
+138,90,2006,Private employment,89361496,0
+139,90,2007,Private employment,91563814,0
+140,90,2008,Private employment,91317564,1
+141,90,2009,Private employment,88021057,1
+142,90,2010,Private employment,87596718,1
+143,90,2011,Private employment,89713533,1
+144,90,2012,Private employment,91536830,1
+145,90,2013,Private employment,93538683,1
+146,90,2014,Private employment,95946439,1
+147,90,2015,Private employment,98372348,1
+148,90,2016,Private employment,100035728,1
+149,90,2017,Private employment,101867845,1
+150,90,2018,Private employment,104237096,1
+151,90,2019,Private employment,106207207,1
+152,100,2001,"Forestry, fishing, related activities, and other",57356,367
+153,100,2002,"Forestry, fishing, related activities, and other",51210,364
+154,100,2003,"Forestry, fishing, related activities, and other",61764,361
+155,100,2004,"Forestry, fishing, related activities, and other",85822,359
+156,100,2005,"Forestry, fishing, related activities, and other",83903,358
+157,100,2006,"Forestry, fishing, related activities, and other",70531,357
+158,100,2007,"Forestry, fishing, related activities, and other",76863,355
+159,100,2008,"Forestry, fishing, related activities, and other",77722,359
+160,100,2009,"Forestry, fishing, related activities, and other",65262,358
+161,100,2010,"Forestry, fishing, related activities, and other",43056,364
+162,100,2011,"Forestry, fishing, related activities, and other",77904,353
+163,100,2012,"Forestry, fishing, related activities, and other",64854,357
+164,100,2013,"Forestry, fishing, related activities, and other",74098,362
+165,100,2014,"Forestry, fishing, related activities, and other",74310,360
+166,100,2015,"Forestry, fishing, related activities, and other",78517,361
+167,100,2016,"Forestry, fishing, related activities, and other",76941,357
+168,100,2017,"Forestry, fishing, related activities, and other",63174,362
+169,100,2018,"Forestry, fishing, related activities, and other",67755,365
+170,100,2019,"Forestry, fishing, related activities, and other",65446,364
+171,200,2001,Mining,100193,352
+172,200,2002,Mining,90801,352
+173,200,2003,Mining,189665,347
+174,200,2004,Mining,192386,343
+175,200,2005,Mining,180349,347
+176,200,2006,Mining,195644,346
+177,200,2007,Mining,234171,344
+178,200,2008,Mining,307812,345
+179,200,2009,Mining,270081,347
+180,200,2010,Mining,258166,353
+181,200,2011,Mining,326041,336
+182,200,2012,Mining,372658,345
+183,200,2013,Mining,405863,345
+184,200,2014,Mining,394023,340
+185,200,2015,Mining,395778,350
+186,200,2016,Mining,357791,344
+187,200,2017,Mining,304582,349
+188,200,2018,Mining,307654,349
+189,200,2019,Mining,348068,349
+190,300,2001,Utilities,45346,353
+191,300,2002,Utilities,46448,350
+192,300,2003,Utilities,52340,352
+193,300,2004,Utilities,55820,351
+194,300,2005,Utilities,56320,350
+195,300,2006,Utilities,61012,341
+196,300,2007,Utilities,58243,345
+197,300,2008,Utilities,54332,347
+198,300,2009,Utilities,45013,355
+199,300,2010,Utilities,46066,357
+200,300,2011,Utilities,46656,356
+201,300,2012,Utilities,51412,356
+202,300,2013,Utilities,51533,352
+203,300,2014,Utilities,58220,349
+204,300,2015,Utilities,63647,349
+205,300,2016,Utilities,66845,353
+206,300,2017,Utilities,65129,353
+207,300,2018,Utilities,58876,353
+208,300,2019,Utilities,62325,352
+209,400,2001,Construction,4541289,143
+210,400,2002,Construction,4568258,144
+211,400,2003,Construction,4846506,144
+212,400,2004,Construction,4890999,148
+213,400,2005,Construction,5194720,143
+214,400,2006,Construction,5406715,157
+215,400,2007,Construction,5668550,149
+216,400,2008,Construction,5167874,147
+217,400,2009,Construction,4809125,146
+218,400,2010,Construction,4349913,149
+219,400,2011,Construction,4089885,149
+220,400,2012,Construction,4541720,156
+221,400,2013,Construction,4605719,153
+222,400,2014,Construction,4743171,160
+223,400,2015,Construction,4791237,158
+224,400,2016,Construction,5098353,152
+225,400,2017,Construction,5214339,152
+226,400,2018,Construction,5196220,160
+227,400,2019,Construction,5602761,146
+228,500,2001,Manufacturing,9039335,131
+229,500,2002,Manufacturing,8346091,138
+230,500,2003,Manufacturing,7875059,141
+231,500,2004,Manufacturing,7746720,140
+232,500,2005,Manufacturing,7738066,135
+233,500,2006,Manufacturing,7415407,147
+234,500,2007,Manufacturing,7487827,138
+235,500,2008,Manufacturing,7982763,83
+236,500,2009,Manufacturing,6506106,139
+237,500,2010,Manufacturing,5953609,146
+238,500,2011,Manufacturing,6346585,147
+239,500,2012,Manufacturing,6564715,139
+240,500,2013,Manufacturing,6674052,135
+241,500,2014,Manufacturing,6683318,142
+242,500,2015,Manufacturing,6554087,146
+243,500,2016,Manufacturing,6506537,153
+244,500,2017,Manufacturing,6436821,156
+245,500,2018,Manufacturing,6504272,158
+246,500,2019,Manufacturing,6675566,158
+247,600,2001,Wholesale trade,1670513,253
+248,600,2002,Wholesale trade,2050944,248
+249,600,2003,Wholesale trade,1837997,251
+250,600,2004,Wholesale trade,1898104,253
+251,600,2005,Wholesale trade,1820215,264
+252,600,2006,Wholesale trade,1712974,259
+253,600,2007,Wholesale trade,1555296,260
+254,600,2008,Wholesale trade,1372519,268
+255,600,2009,Wholesale trade,1432134,263
+256,600,2010,Wholesale trade,1583364,263
+257,600,2011,Wholesale trade,1663522,256
+258,600,2012,Wholesale trade,1550787,267
+259,600,2013,Wholesale trade,1533294,270
+260,600,2014,Wholesale trade,1504484,280
+261,600,2015,Wholesale trade,1732389,272
+262,600,2016,Wholesale trade,1529664,280
+263,600,2017,Wholesale trade,1452268,290
+264,600,2018,Wholesale trade,1624606,275
+265,600,2019,Wholesale trade,1678935,279
+266,700,2001,Retail Trade,10604393,43
+267,700,2002,Retail Trade,10643497,41
+268,700,2003,Retail Trade,10747196,34
+269,700,2004,Retail Trade,10972431,29
+270,700,2005,Retail Trade,11155635,34
+271,700,2006,Retail Trade,11182098,39
+272,700,2007,Retail Trade,11203689,42
+273,700,2008,Retail Trade,10971642,42
+274,700,2009,Retail Trade,10359853,47
+275,700,2010,Retail Trade,10279347,50
+276,700,2011,Retail Trade,10440632,49
+277,700,2012,Retail Trade,10501361,53
+278,700,2013,Retail Trade,10675234,52
+279,700,2014,Retail Trade,10830343,51
+280,700,2015,Retail Trade,11047831,47
+281,700,2016,Retail Trade,11226751,47
+282,700,2017,Retail Trade,11401896,53
+283,700,2018,Retail Trade,11345388,52
+284,700,2019,Retail Trade,11081762,60
+285,800,2001,Transportation and warehousing,728347,319
+286,800,2002,Transportation and warehousing,758299,316
+287,800,2003,Transportation and warehousing,755984,312
+288,800,2004,Transportation and warehousing,762375,310
+289,800,2005,Transportation and warehousing,1097236,305
+290,800,2006,Transportation and warehousing,1148786,302
+291,800,2007,Transportation and warehousing,1213671,301
+292,800,2008,Transportation and warehousing,1252333,295
+293,800,2009,Transportation and warehousing,1063853,306
+294,800,2010,Transportation and warehousing,1096722,308
+295,800,2011,Transportation and warehousing,1118494,315
+296,800,2012,Transportation and warehousing,1161029,311
+297,800,2013,Transportation and warehousing,1241498,306
+298,800,2014,Transportation and warehousing,1298639,306
+299,800,2015,Transportation and warehousing,1459056,304
+300,800,2016,Transportation and warehousing,1618452,304
+301,800,2017,Transportation and warehousing,1808896,295
+302,800,2018,Transportation and warehousing,1889373,299
+303,800,2019,Transportation and warehousing,2002675,299
+304,900,2001,Information,1398578,219
+305,900,2002,Information,1482593,212
+306,900,2003,Information,1412493,212
+307,900,2004,Information,1304198,219
+308,900,2005,Information,1435222,207
+309,900,2006,Information,1409426,207
+310,900,2007,Information,1431167,217
+311,900,2008,Information,1366873,216
+312,900,2009,Information,1273141,217
+313,900,2010,Information,1198832,223
+314,900,2011,Information,1225999,225
+315,900,2012,Information,1221653,219
+316,900,2013,Information,1267955,225
+317,900,2014,Information,1354960,232
+318,900,2015,Information,1343895,238
+319,900,2016,Information,1415340,236
+320,900,2017,Information,1494584,238
+321,900,2018,Information,1452523,243
+322,900,2019,Information,1481116,235
+323,1000,2001,Finance and insurance,3360031,175
+324,1000,2002,Finance and insurance,3446955,178
+325,1000,2003,Finance and insurance,3464683,175
+326,1000,2004,Finance and insurance,3295406,180
+327,1000,2005,Finance and insurance,3666826,167
+328,1000,2006,Finance and insurance,3836675,167
+329,1000,2007,Finance and insurance,4072358,170
+330,1000,2008,Finance and insurance,4283655,163
+331,1000,2009,Finance and insurance,4541545,162
+332,1000,2010,Finance and insurance,4382474,164
+333,1000,2011,Finance and insurance,4553027,171
+334,1000,2012,Finance and insurance,4144130,178
+335,1000,2013,Finance and insurance,4227226,176
+336,1000,2014,Finance and insurance,4554851,176
+337,1000,2015,Finance and insurance,4619023,170
+338,1000,2016,Finance and insurance,4773983,179
+339,1000,2017,Finance and insurance,4714662,187
+340,1000,2018,Finance and insurance,4939897,192
+341,1000,2019,Finance and insurance,5063782,191
+342,1100,2001,Real estate and rental and leasing,2295514,185
+343,1100,2002,Real estate and rental and leasing,2515702,183
+344,1100,2003,Real estate and rental and leasing,2654317,182
+345,1100,2004,Real estate and rental and leasing,2707426,188
+346,1100,2005,Real estate and rental and leasing,3166338,172
+347,1100,2006,Real estate and rental and leasing,3411779,170
+348,1100,2007,Real estate and rental and leasing,3590615,172
+349,1100,2008,Real estate and rental and leasing,3469977,163
+350,1100,2009,Real estate and rental and leasing,3518976,172
+351,1100,2010,Real estate and rental and leasing,3363815,180
+352,1100,2011,Real estate and rental and leasing,3418011,185
+353,1100,2012,Real estate and rental and leasing,3528421,194
+354,1100,2013,Real estate and rental and leasing,3684445,190
+355,1100,2014,Real estate and rental and leasing,3717963,196
+356,1100,2015,Real estate and rental and leasing,3784380,193
+357,1100,2016,Real estate and rental and leasing,4008653,194
+358,1100,2017,Real estate and rental and leasing,3966943,206
+359,1100,2018,Real estate and rental and leasing,4317107,205
+360,1100,2019,Real estate and rental and leasing,4477291,204
+361,1200,2001,Professional and technical services,2800972,309
+362,1200,2002,Professional and technical services,2825474,298
+363,1200,2003,Professional and technical services,2825185,300
+364,1200,2004,Professional and technical services,2818005,300
+365,1200,2005,Professional and technical services,3001213,299
+366,1200,2006,Professional and technical services,3148708,299
+367,1200,2007,Professional and technical services,3528450,299
+368,1200,2008,Professional and technical services,4149202,280
+369,1200,2009,Professional and technical services,3707861,276
+370,1200,2010,Professional and technical services,3584895,279
+371,1200,2011,Professional and technical services,3431229,283
+372,1200,2012,Professional and technical services,2961798,287
+373,1200,2013,Professional and technical services,3645151,288
+374,1200,2014,Professional and technical services,3654671,287
+375,1200,2015,Professional and technical services,3922051,287
+376,1200,2016,Professional and technical services,4210495,285
+377,1200,2017,Professional and technical services,4076756,291
+378,1200,2018,Professional and technical services,4630993,280
+379,1200,2019,Professional and technical services,4690397,284
+380,1300,2001,Management of companies and enterprises,477677,333
+381,1300,2002,Management of companies and enterprises,465015,324
+382,1300,2003,Management of companies and enterprises,424656,333
+383,1300,2004,Management of companies and enterprises,444071,329
+384,1300,2005,Management of companies and enterprises,463786,330
+385,1300,2006,Management of companies and enterprises,454368,333
+386,1300,2007,Management of companies and enterprises,468157,331
+387,1300,2008,Management of companies and enterprises,504598,324
+388,1300,2009,Management of companies and enterprises,482522,332
+389,1300,2010,Management of companies and enterprises,519065,324
+390,1300,2011,Management of companies and enterprises,538344,325
+391,1300,2012,Management of companies and enterprises,529945,319
+392,1300,2013,Management of companies and enterprises,570530,317
+393,1300,2014,Management of companies and enterprises,559314,320
+394,1300,2015,Management of companies and enterprises,610387,314
+395,1300,2016,Management of companies and enterprises,734539,319
+396,1300,2017,Management of companies and enterprises,664808,316
+397,1300,2018,Management of companies and enterprises,740637,313
+398,1300,2019,Management of companies and enterprises,794424,319
+399,1400,2001,Administrative and waste services,2835402,305
+400,1400,2002,Administrative and waste services,2660151,302
+401,1400,2003,Administrative and waste services,2353160,300
+402,1400,2004,Administrative and waste services,3103271,286
+403,1400,2005,Administrative and waste services,3232342,288
+404,1400,2006,Administrative and waste services,3450529,282
+405,1400,2007,Administrative and waste services,3252772,281
+406,1400,2008,Administrative and waste services,3212565,286
+407,1400,2009,Administrative and waste services,2876919,294
+408,1400,2010,Administrative and waste services,3070404,289
+409,1400,2011,Administrative and waste services,3360515,278
+410,1400,2012,Administrative and waste services,3433485,277
+411,1400,2013,Administrative and waste services,3662511,270
+412,1400,2014,Administrative and waste services,3770264,265
+413,1400,2015,Administrative and waste services,3747006,264
+414,1400,2016,Administrative and waste services,4075014,255
+415,1400,2017,Administrative and waste services,4075506,263
+416,1400,2018,Administrative and waste services,3921483,260
+417,1400,2019,Administrative and waste services,4138475,262
+418,1500,2001,Educational services,967367,313
+419,1500,2002,Educational services,972698,315
+420,1500,2003,Educational services,998121,318
+421,1500,2004,Educational services,1080255,311
+422,1500,2005,Educational services,1088004,314
+423,1500,2006,Educational services,1112578,312
+424,1500,2007,Educational services,1166156,311
+425,1500,2008,Educational services,1196088,309
+426,1500,2009,Educational services,1284458,305
+427,1500,2010,Educational services,1323007,314
+428,1500,2011,Educational services,1293252,307
+429,1500,2012,Educational services,1253093,309
+430,1500,2013,Educational services,1338346,309
+431,1500,2014,Educational services,1405438,310
+432,1500,2015,Educational services,1436368,313
+433,1500,2016,Educational services,1485154,310
+434,1500,2017,Educational services,1541695,314
+435,1500,2018,Educational services,1619251,309
+436,1500,2019,Educational services,1612588,315
+437,1600,2001,Health care and social assistance,3680620,326
+438,1600,2002,Health care and social assistance,3690432,327
+439,1600,2003,Health care and social assistance,3736429,327
+440,1600,2004,Health care and social assistance,3982693,321
+441,1600,2005,Health care and social assistance,4031082,323
+442,1600,2006,Health care and social assistance,4135545,320
+443,1600,2007,Health care and social assistance,4586022,315
+444,1600,2008,Health care and social assistance,4679489,312
+445,1600,2009,Health care and social assistance,4739987,310
+446,1600,2010,Health care and social assistance,4710546,320
+447,1600,2011,Health care and social assistance,4920335,310
+448,1600,2012,Health care and social assistance,4799444,315
+449,1600,2013,Health care and social assistance,5210839,312
+450,1600,2014,Health care and social assistance,5351001,315
+451,1600,2015,Health care and social assistance,5527112,317
+452,1600,2016,Health care and social assistance,5771551,316
+453,1600,2017,Health care and social assistance,5983071,318
+454,1600,2018,Health care and social assistance,6389794,311
+455,1600,2019,Health care and social assistance,6368986,316
+456,1700,2001,"Arts, entertainment, and recreation",1184527,243
+457,1700,2002,"Arts, entertainment, and recreation",1197205,253
+458,1700,2003,"Arts, entertainment, and recreation",1185497,245
+459,1700,2004,"Arts, entertainment, and recreation",1239064,238
+460,1700,2005,"Arts, entertainment, and recreation",1356125,235
+461,1700,2006,"Arts, entertainment, and recreation",1350242,227
+462,1700,2007,"Arts, entertainment, and recreation",1461544,223
+463,1700,2008,"Arts, entertainment, and recreation",1495398,221
+464,1700,2009,"Arts, entertainment, and recreation",1509547,224
+465,1700,2010,"Arts, entertainment, and recreation",1438006,229
+466,1700,2011,"Arts, entertainment, and recreation",1545380,226
+467,1700,2012,"Arts, entertainment, and recreation",1607714,223
+468,1700,2013,"Arts, entertainment, and recreation",1599518,233
+469,1700,2014,"Arts, entertainment, and recreation",1651672,238
+470,1700,2015,"Arts, entertainment, and recreation",1661388,242
+471,1700,2016,"Arts, entertainment, and recreation",1744869,248
+472,1700,2017,"Arts, entertainment, and recreation",1711290,242
+473,1700,2018,"Arts, entertainment, and recreation",1699092,242
+474,1700,2019,"Arts, entertainment, and recreation",1799753,240
+475,1800,2001,Accommodation and food services,4092162,227
+476,1800,2002,Accommodation and food services,3774717,245
+477,1800,2003,Accommodation and food services,3967549,232
+478,1800,2004,Accommodation and food services,4217793,224
+479,1800,2005,Accommodation and food services,4623344,224
+480,1800,2006,Accommodation and food services,4691860,226
+481,1800,2007,Accommodation and food services,4901915,222
+482,1800,2008,Accommodation and food services,4667579,224
+483,1800,2009,Accommodation and food services,4630981,227
+484,1800,2010,Accommodation and food services,4602549,232
+485,1800,2011,Accommodation and food services,4783484,230
+486,1800,2012,Accommodation and food services,4984069,226
+487,1800,2013,Accommodation and food services,5078413,233
+488,1800,2014,Accommodation and food services,4944301,242
+489,1800,2015,Accommodation and food services,5313984,240
+490,1800,2016,Accommodation and food services,5510475,250
+491,1800,2017,Accommodation and food services,5487331,238
+492,1800,2018,Accommodation and food services,5878612,238
+493,1800,2019,Accommodation and food services,5838102,240
+494,1900,2001,"Other services, except public administration",4342072,127
+495,1900,2002,"Other services, except public administration",4436147,125
+496,1900,2003,"Other services, except public administration",4761040,125
+497,1900,2004,"Other services, except public administration",4738961,122
+498,1900,2005,"Other services, except public administration",4785444,128
+499,1900,2006,"Other services, except public administration",4894046,126
+500,1900,2007,"Other services, except public administration",4990774,135
+501,1900,2008,"Other services, except public administration",4936748,136
+502,1900,2009,"Other services, except public administration",4542746,141
+503,1900,2010,"Other services, except public administration",4683266,134
+504,1900,2011,"Other services, except public administration",4831922,149
+505,1900,2012,"Other services, except public administration",4942703,147
+506,1900,2013,"Other services, except public administration",4791707,169
+507,1900,2014,"Other services, except public administration",4960653,161
+508,1900,2015,"Other services, except public administration",4982389,181
+509,1900,2016,"Other services, except public administration",5047375,165
+510,1900,2017,"Other services, except public administration",5211802,162
+511,1900,2018,"Other services, except public administration",5226341,175
+512,1900,2019,"Other services, except public administration",5328268,172
+513,2000,2001,Government and government enterprises,13952642,0
+514,2000,2002,Government and government enterprises,14179441,0
+515,2000,2003,Government and government enterprises,14254937,0
+516,2000,2004,Government and government enterprises,14304377,0
+517,2000,2005,Government and government enterprises,14381689,0
+518,2000,2006,Government and government enterprises,14498764,0
+519,2000,2007,Government and government enterprises,14650704,0
+520,2000,2008,Government and government enterprises,14873507,1
+521,2000,2009,Government and government enterprises,14959394,1
+522,2000,2010,Government and government enterprises,14998089,1
+523,2000,2011,Government and government enterprises,14777928,1
+524,2000,2012,Government and government enterprises,14658841,1
+525,2000,2013,Government and government enterprises,14608475,1
+526,2000,2014,Government and government enterprises,14589964,1
+527,2000,2015,Government and government enterprises,14623438,1
+528,2000,2016,Government and government enterprises,14706361,1
+529,2000,2017,Government and government enterprises,14763371,1
+530,2000,2018,Government and government enterprises,14801054,1
+531,2000,2019,Government and government enterprises,14899573,1
+532,2001,2001,"Federal, civilian",1435454,0
+533,2001,2002,"Federal, civilian",1479599,0
+534,2001,2003,"Federal, civilian",1477881,0
+535,2001,2004,"Federal, civilian",1461877,0
+536,2001,2005,"Federal, civilian",1460022,0
+537,2001,2006,"Federal, civilian",1462065,0
+538,2001,2007,"Federal, civilian",1460769,0
+539,2001,2008,"Federal, civilian",1480726,1
+540,2001,2009,"Federal, civilian",1515716,1
+541,2001,2010,"Federal, civilian",1602536,1
+542,2001,2011,"Federal, civilian",1524805,1
+543,2001,2012,"Federal, civilian",1498260,1
+544,2001,2013,"Federal, civilian",1468948,1
+545,2001,2014,"Federal, civilian",1450776,1
+546,2001,2015,"Federal, civilian",1461907,1
+547,2001,2016,"Federal, civilian",1482969,1
+548,2001,2017,"Federal, civilian",1490019,1
+549,2001,2018,"Federal, civilian",1488146,1
+550,2001,2019,"Federal, civilian",1509818,1
+551,2002,2001,Military,1245292,0
+552,2002,2002,Military,1263462,0
+553,2002,2003,Military,1270131,0
+554,2002,2004,Military,1249889,0
+555,2002,2005,Military,1214230,0
+556,2002,2006,Military,1228687,0
+557,2002,2007,Military,1236082,0
+558,2002,2008,Military,1260342,1
+559,2002,2009,Military,1274878,1
+560,2002,2010,Military,1282038,1
+561,2002,2011,Military,1273888,1
+562,2002,2012,Military,1259908,1
+563,2002,2013,Military,1242743,1
+564,2002,2014,Military,1201075,1
+565,2002,2015,Military,1186840,1
+566,2002,2016,Military,1164851,1
+567,2002,2017,Military,1165548,1
+568,2002,2018,Military,1159503,1
+569,2002,2019,Military,1174458,1
+570,2010,2001,State and local,11271896,0
+571,2010,2002,State and local,11436380,0
+572,2010,2003,State and local,11506925,0
+573,2010,2004,State and local,11592611,0
+574,2010,2005,State and local,11707437,0
+575,2010,2006,State and local,11808012,0
+576,2010,2007,State and local,11953853,0
+577,2010,2008,State and local,12132439,1
+578,2010,2009,State and local,12168800,1
+579,2010,2010,State and local,12113515,1
+580,2010,2011,State and local,11979235,1
+581,2010,2012,State and local,11900673,1
+582,2010,2013,State and local,11896784,1
+583,2010,2014,State and local,11938113,1
+584,2010,2015,State and local,11974691,1
+585,2010,2016,State and local,12058541,1
+586,2010,2017,State and local,12107804,1
+587,2010,2018,State and local,12153405,1
+588,2010,2019,State and local,12215297,1
+589,2011,2001,State government,2121188,140
+590,2011,2002,State government,2000074,142
+591,2011,2003,State government,1975804,149
+592,2011,2004,State government,2103094,137
+593,2011,2005,State government,2133909,129
+594,2011,2006,State government,2129208,131
+595,2011,2007,State government,2234113,127
+596,2011,2008,State government,2338536,128
+597,2011,2009,State government,2338730,125
+598,2011,2010,State government,2332887,132
+599,2011,2011,State government,2257805,137
+600,2011,2012,State government,2259571,139
+601,2011,2013,State government,2302241,143
+602,2011,2014,State government,2120301,149
+603,2011,2015,State government,2194603,146
+604,2011,2016,State government,2177891,150
+605,2011,2017,State government,1995722,154
+606,2011,2018,State government,2144295,155
+607,2011,2019,State government,2049598,157
+608,2012,2001,Local government,5633418,140
+609,2012,2002,Local government,5310023,142
+610,2012,2003,Local government,5246216,149
+611,2012,2004,Local government,5814623,137
+612,2012,2005,Local government,5977481,129
+613,2012,2006,Local government,6042300,131
+614,2012,2007,Local government,6453858,127
+615,2012,2008,Local government,6546847,128
+616,2012,2009,Local government,6395810,125
+617,2012,2010,Local government,6428147,132
+618,2012,2011,Local government,6225959,137
+619,2012,2012,Local government,6174640,139
+620,2012,2013,Local government,6242027,143
+621,2012,2014,Local government,5723989,149
+622,2012,2015,Local government,5945736,146
+623,2012,2016,Local government,5976104,150
+624,2012,2017,Local government,5656159,154
+625,2012,2018,Local government,6115542,155
+626,2012,2019,Local government,5728235,157
